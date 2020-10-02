@@ -1,5 +1,5 @@
 # Tic-tac-toe-Game
-Tic-Tac-Toe Game made using Python.
+I have made this Tic-Tac-Toe Game using Python.
 
 To play game:
 $ python TicTacToe.py
